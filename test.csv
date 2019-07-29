@@ -1,0 +1,29 @@
+name,ring,quadrant,isNew,description
+Hyperledger Fabric,adopt,languages-and-frameworks,TRUE,<p>Framework to build blockchain networks. Mainly uses Go as language for chaincode.</p>
+WRMHL,trial,languages-and-frameworks,TRUE,<p>Framework to build blockchain networks. Mainly uses Java as language for chaincode. Builds up on Tendermint.</p>
+IPFS,trial,languages-and-frameworks,TRUE,<p>Decentralized filesystem with Blockchain features.</p>
+Corda,trial,languages-and-frameworks,TRUE,<p>Enterprise oriented Blockchain framework written in Java/Kotlin</p>
+Tendermint,assess,languages-and-frameworks,TRUE,<p>A concensus framework that is just verifying consensus about some payload without any bigger governance or code execution.</p>
+BigchainDB,assess,languages-and-frameworks,TRUE,<p>Decentralized NoSQL-Database with Blockchain features.</p>
+Ethereum,hold,languages-and-frameworks,TRUE,<p>A blockchain framework which also provides a public network and uses ether and proof of work.</p>
+AWS Managed Blockchain,assess,platforms,TRUE,<p>Hyperledger/Ethereum Blockchain as a PaaS</p>
+SAP CPBS,assess,platforms,TRUE,<p>PaaS with Multichain support.</p>
+AWS QuantumDB,hold,platforms,TRUE,<p>AWS managed append-only database</p>
+Hyperledger Composer,trial,tools,TRUE,"<p>Hyperledger Composer is an extensive, open development toolset and framework to make developing blockchain applications easier. Our primary goal is to accelerate time to value, and make it easier to integrate your blockchain applications with the existing business systems. You can use Composer to rapidly develop use cases and deploy a blockchain solution in weeks rather than months. Composer allows you to model your business network and integrate existing systems and data with your blockchain applications.It is supporting Hyperledger Fabric.</p>"
+Truffle,hold,tools,TRUE,"<p>Truffle is a development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier. It contains things as automated testing of smart contracts, scriptable migrations/deployments of them and more. </p>"
+Proof of Authority,adopt,techniques,TRUE,<p>A consense algorithm mainly for private networks that ensures the consensus of some selected authorities.</p>
+Zero Knoweledge Proofs,trial,techniques,TRUE,"<p>A zero-knowledge proof or zero-knowledge protocol is a method by which one party (the prover) can prove to another party (the verifier) that they know a value x, without conveying any information apart from the fact that they know the value x.</p>"
+Proof of Stake,trial,techniques,TRUE,<p>A less energy consuming consense algorithm for public blockchains.</p>
+Sidechains,trial,techniques,TRUE,<p>Sidechains are emerging mechanisms that allow tokens and other digital assets from one blockchain to be securely used in a separate blockchain and then be moved back to the original blockchain if needed.</p>
+Sharding,assess,techniques,TRUE,"<p>Sharding is one of several popular methods being explored by developers to increase transactional throughput. Simply stated, sharding is a way of partitioning to spread out the computational and storage workload across a peer-to-peer (P2P) network so that each node isn't responsible for processing the entire network's transactional load. Instead, each node only maintains information related to its partition, or shard.</p>"
+Light Nodes,assess,techniques,TRUE,<p>Light Nodes only process and storage the block headers of a blockchain. This makes them easier to maintain as they do not require so much storage and bandwith but also makes them depending on other full nodes. </p>
+Proof of Work,hold,techniques,TRUE,<p>A energy consuming consense algorithm for public blockchains.</p>
+Antara Framework,assess,languages-and-frameworks,TRUE,"<p>Komodo’s Antara Framework is an adaptable framework for simple, end-to-end blockchain development. Antara makes it easier than ever before to launch a chain, activate modules, and start building blockchain-based applications.</p>"
+Cosmos,assess,platforms,TRUE,"<p>Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms like Tendermint consensus.</p>"
+ProvenDB,assess,languages-and-frameworks,TRUE,"<p>ProvenDB bridges the gap between database and blockchain. It combines a high-performance MongoDB compatible database service with blockchain attributes of immutability, data provenance, and provability. </p>"
+ArcBlock FORGE,assess,languages-and-frameworks,TRUE,"<p>ArcBlock combines the power of cloud computing with a blockchain application platform enabling developers to easily build, run and manage blockchains and decentralized applications (DApps).</p>"
+Kadena,assess,platforms,TRUE,"<p>Kadena is the first private blockchain that can scale to thousands of nodes. The proprietary BFT-consensus protocol ScalableBFT has been proven to achieve up to 8,000 TPS with latencies well below 100ms in real-world testing with 256 nodes.</p>"
+Sia,assess,platforms,TRUE,"<p>Sia is the leading decentralized cloud storage platform. No signups, no servers, no trusted third parties. Sia leverages blockchain technology to create a data storage marketplace that is more robust and more affordable than traditional cloud storage providers.</p>"
+Algorand,assess,platforms,TRUE,"<p>Algorand is a permissionless, pure proof-of-stake blockchain that delivers decentralization, scalability, and security.</p>"
+Hyperledger Aries,assess,platforms,TRUE,"<p>Hyperledger Aries provides a shared, reusable, interoperable tool kit designed for initiatives and solutions focused on creating, transmitting and storing verifiable digital credentials. </p>"
+Near,assess,platforms,TRUE,"<p>NEAR is a sharded, developer-friendly, proof-of-stake public blockchain, built by a world-class team that has built some of the world's only sharded databases at scale.</p>"
